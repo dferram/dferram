@@ -6,8 +6,6 @@
 
 [![Fernando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ferramdr&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-> Soy un estudiante de Ingeniería en Software y un profesional híbrido: combino una base sólida en ingeniería de software (Código limpio, Estructuras de Datos & Algoritmos, pensamiento de sistemas) con un enfoque creciente en análisis de datos y aprendizaje automático. No solo analizo datos — construyo los sistemas, dashboards y aplicaciones que ponen los datos a trabajar.
-
 ---
 
 ## Technical Skills
@@ -50,15 +48,6 @@
 - Análisis de datos práctico y fundamentos de ML  
 - Proyectos end‑to‑end: datos → insights → producto  
 - Desarrollo impulsado por producto y buenas prácticas de ingeniería
-
----
-
-## How I Work
-
-- Mentalidad de ingeniero: código limpio, tests y pensamiento de sistemas  
-- Orientado a producto: soluciones de datos que generan impacto  
-- Aprendiz rápido y trabajo portfolio‑driven  
-- Desarrollo asistido por IA cuando aporta velocidad y calidad
 
 ---
 

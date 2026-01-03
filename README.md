@@ -4,6 +4,8 @@
 
 ---
 
+[![Fernando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ferramdr&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 > Soy un estudiante de Ingeniería en Software y un profesional híbrido: combino una base sólida en ingeniería de software (Código limpio, Estructuras de Datos & Algoritmos, pensamiento de sistemas) con un enfoque creciente en análisis de datos y aprendizaje automático. No solo analizo datos — construyo los sistemas, dashboards y aplicaciones que ponen los datos a trabajar.
 
 ---

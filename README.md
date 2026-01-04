@@ -21,19 +21,19 @@
 
 ## Featured Projects
 
-## RazoConnect 
+# RazoConnect 
 End-to-end full-stack ERP platform developed as the sole developer for a wholesale client, Razo Centro Mayorista. The system optimizes business operations through data-driven modules, including real-time stock projection, profit margin analysis, and economic summaries. I engineered the entire architecture, from scalable RESTful APIs to optimized database schemas, ensuring fast and accurate reporting for business intelligence. Tech Stack: Node.js • PostgreSQL • React • Azure
 
-## FinReport AI 
+# FinReport AI 
 Financial dashboard designed to visualize actionable KPIs and facilitate data-driven decision-making. I implemented the complete UI/UX and integrated interactive data visualizations to effectively communicate complex financial metrics to end-users. Tech Stack: React • Python • Interactive Visualization
 
-## Task Key 
+# Task Key 
 Gamified parental control application that manages screen time access based on task completion logic. I led the product design and engineered the backend logic, including secure permission systems and user data management. Tech Stack: Node.js • React • PostgreSQL
 
-## Data Analysis (ANIEI) 
+# Data Analysis (ANIEI) 
 Applied data analysis project working with raw, real-world datasets. Performed comprehensive Exploratory Data Analysis (EDA), data cleaning, and preprocessing to build insightful dashboards and visualizations that uncover key trends. Tech Stack: Python • pandas • SQL
 
-## Personal Portfolio 
+# Personal Portfolio 
 Interactive full-stack web application designed to showcase technical software projects and data science case studies, demonstrating end-to-end development and deployment skills. Tech Stack: React • Node.js • PostgreSQL
 
 ---

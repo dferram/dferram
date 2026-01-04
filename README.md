@@ -21,33 +21,15 @@
 
 ## Featured Projects
 
-- **FinReport AI**  
-  Dashboard financiero centrado en KPIs claros y toma de decisiones. Implementé la UI/UX y visualizaciones interactivas para comunicar métricas clave.  
-  Tecnologías: React • Python • (visualización interactiva)
+RazoConnect End-to-end full-stack ERP platform developed as the sole developer for a wholesale client, Razo Centro Mayorista. The system optimizes business operations through data-driven modules, including real-time stock projection, profit margin analysis, and economic summaries. I engineered the entire architecture, from scalable RESTful APIs to optimized database schemas, ensuring fast and accurate reporting for business intelligence. Tech Stack: Node.js • PostgreSQL • React • Azure
 
-- **Task Key**  
-  App de control parental basada en lógica de acceso por tareas. Diseño del producto, permisos y lógica del backend.  
-  Tecnologías: Node.js • React • PostgreSQL
+FinReport AI Financial dashboard designed to visualize actionable KPIs and facilitate data-driven decision-making. I implemented the complete UI/UX and integrated interactive data visualizations to effectively communicate complex financial metrics to end-users. Tech Stack: React • Python • Interactive Visualization
 
-- **RazoConnect**  
-  Plataforma colaborativa full-stack con enfoque en métricas y analítica. Construí APIs y estructuras para reporting y analítica.  
-  Tecnologías: Node.js • PostgreSQL • React
+Task Key Gamified parental control application that manages screen time access based on task completion logic. I led the product design and engineered the backend logic, including secure permission systems and user data management. Tech Stack: Node.js • React • PostgreSQL
 
-- **Data Analysis (ANIEI)**  
-  Curso práctico con datasets reales: EDA, limpieza, visualización y dashboards.  
-  Tecnologías: Python • pandas • SQL
+Data Analysis (ANIEI) Applied data analysis project working with raw, real-world datasets. Performed comprehensive Exploratory Data Analysis (EDA), data cleaning, and preprocessing to build insightful dashboards and visualizations that uncover key trends. Tech Stack: Python • pandas • SQL
 
-- **Personal Portfolio**  
-  Portfolio full‑stack que muestra proyectos y estudios de caso.  
-  Tecnologías: React • Node.js • PostgreSQL
-
----
-
-## Current Focus
-
-- Análisis de datos práctico y fundamentos de ML  
-- Proyectos end‑to‑end: datos → insights → producto  
-- Desarrollo impulsado por producto y buenas prácticas de ingeniería
+Personal Portfolio Interactive full-stack web application designed to showcase technical software projects and data science case studies, demonstrating end-to-end development and deployment skills. Tech Stack: React • Node.js • PostgreSQL
 
 ---
 

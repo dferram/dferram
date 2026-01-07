@@ -19,14 +19,6 @@
 
 ---
 
-| AI Tool | Skills / Usage |
-| :--- | :--- |
-| ![Gemini](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)| Prompt generation, learning paths |
-| ![Claude Sonnet](https://img.shields.io/badge/Claude_Sonnet-7B61FF?logo=anthropic&logoColor=white)| Fullstack web development |
-| ![GPT Codex](https://img.shields.io/badge/GPT_Codex-0A0A0A?logo=openai&logoColor=white)| Fullstack web development |
-
----
-
 ## Featured Projects
 
 - RazoConnect

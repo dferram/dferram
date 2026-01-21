@@ -41,7 +41,7 @@ Interactive full-stack web application designed to showcase technical software p
 
 ## Contact
 
-- GitHub: [ferramdr](https://github.com/ferramdr)  
+- GitHub: [dferram](https://github.com/dferram)  
 - LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)  
 - Email: dferramm@gmail.com
 

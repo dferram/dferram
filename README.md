@@ -1,6 +1,6 @@
-# 🔗 Fernando Ramírez
+# Fernando Ramírez
 
-*Software Engineering Student | Aspiring Data Analyst & Future Data Scientist and Web Developer*
+*Software Engineer | Aspiring Data Analyst & Future Data Scientist and Web Developer*
 
 ---
 

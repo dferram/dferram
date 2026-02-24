@@ -26,6 +26,8 @@ End-to-end full-stack ERP platform developed as the sole developer for a wholesa
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=dferram&color=blue)
+
 ## Contact
 
 - Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)

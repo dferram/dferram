@@ -1,6 +1,7 @@
 # Fernando Ramírez
 
 *CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/) | Software Engineer | Aspiring Data Analyst & Future Data Scientist and Web Developer*
+> **xCore - Redefining high-performance engineering.**
 
 ---
 

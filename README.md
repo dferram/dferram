@@ -30,6 +30,6 @@ End-to-end full-stack ERP platform developed as the sole developer for a wholesa
 - WebSite: [Portfolio](https://red-desert-06e138c10.2.azurestaticapps.net)  
 - LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)  
 - Email: dferramm@gmail.com
-- [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)
+- Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)
 
 ---

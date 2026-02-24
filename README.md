@@ -21,6 +21,8 @@
 
 End-to-end full-stack ERP platform developed as the sole developer for a wholesale client, Razo Centro Mayorista. The system optimizes business operations through data-driven modules, including real-time stock projection, profit margin analysis, and economic summaries. I engineered the entire architecture, from scalable RESTful APIs to optimized database schemas, ensuring fast and accurate reporting for business intelligence. Tech Stack: Node.js • PostgreSQL • React • Azure
 
+> **Interested in the architecture?** Feel free to explore the [RazoConnect Architecture Repository](https://github.com/dferram/REPLACE_WITH_REPO_NAME) to dive deeper into the system design, infrastructure decisions, and technical documentation behind this project.
+
 ---
 
 ## Contact

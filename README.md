@@ -31,8 +31,7 @@ End-to-end full-stack ERP platform developed as the sole developer for a wholesa
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dferram&theme=dark&hide_border=true" height="170"/>
-  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=dferram&theme=dark&hide_border=true&timezone=America/Mexico_City" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dferram&theme=github_dark" height="170"/>
 </div>
 

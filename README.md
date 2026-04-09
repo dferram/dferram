@@ -22,7 +22,7 @@
 
 - [RazoConnect](https://razo.com.mx)
 
-End-to-end full-stack ERP platform developed as the sole developer for a wholesale client, Razo Centro Mayorista. The system optimizes business operations through data-driven modules, including real-time stock projection, profit margin analysis, and economic summaries. I engineered the entire architecture, from scalable RESTful APIs to optimized database schemas, ensuring fast and accurate reporting for business intelligence. 
+An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients, where I served as the sole architect and developer responsible for the entire technical lifecycle. The system integrates complex business logic—including a sophisticated FIFO inventory allocation algorithm, real-time stock projections, and automated financial reporting—within a robust multi-tenant architecture featuring strict data isolation, a multi-layered security pipeline with granular Role-Based Access Control (RBAC), and high-performance hybrid caching utilizing Redis and RAM to ensure production-level scalability and data-driven operational excellence.
 
 > **Interested in the architecture?** Feel free to explore the [RazoConnect Architecture Repository](https://github.com/dferram/RazoConnect-Architecture-Showcase) to dive deeper into the system design, infrastructure decisions, and technical documentation behind this project.
 

@@ -17,9 +17,9 @@ Software Engineer passionate about solving problems and creating projects:
 
 ## Technical Skills & Activity
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="60%">
       <table width="100%">
         <thead>
           <tr>
@@ -70,8 +70,8 @@ Software Engineer passionate about solving problems and creating projects:
         </tbody>
       </table>
     </td>
-    <td valign="middle" width="35%" align="center">
-      <img src="https://streak-stats.demolab.com?user=dferram&theme=dark&hide_border=true&timezone=America/Mexico_City" height="170"/>
+    <td valign="middle" width="40%" align="center">
+      <img src="https://streak-stats.demolab.com?user=dferram&theme=dark&hide_border=false&timezone=America/Mexico_City" height="160"/>
     </td>
   </tr>
 </table>

@@ -1,11 +1,8 @@
 # Fernando Ramírez
-
 *CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/) | Software Engineer*
 > **xCore - Redefining high-performance engineering.**
 
----
-
-Software Engineer passionate about solving problems and creating projects:
+**Software Engineer passionate about solving problems and creating projects:**
 
 `Backend & Databases` • `Cloud & DevOps` • `Security` • `Frontend & UX/UI`
 

@@ -1,5 +1,5 @@
 # Fernando Ramírez
-*CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/) | Software Engineer*
+*Software Engineer | CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)*
 > **xCore - Redefining high-performance engineering.**
 
 **Software Engineer passionate about solving problems and creating projects:**
@@ -86,7 +86,6 @@ An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients
 ---
 ## Contact
 
-- Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)
 - WebSite: [Portfolio](https://dferram.github.io/Personal-Portfolio/)  
 - LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)  
 - Email: dferramm@gmail.com

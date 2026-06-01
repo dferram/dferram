@@ -1,14 +1,8 @@
 # Fernando Ramírez
-*Software Engineer | CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)*
-> **xCore - Redefining high-performance engineering.**
-
-**Software Engineer passionate about solving problems and creating projects:**
+*CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/) | Software engineer*
+> **Intern Procurement IT at Colgate-Palmolive**
 
 `Backend & Databases` • `Cloud & DevOps` • `Security` • `Frontend & UX/UI`
-
-## Currently learning
- **Google Cloud Infrastructure and Certifications** as:
-> **Professional Cloud Developer** | Professional Data Engineer | Professional Cloud Architect
 
 ---
 
@@ -84,7 +78,12 @@ An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients
 
 > **Interested in the architecture?** Feel free to explore the [RazoConnect Architecture Repository](https://github.com/dferram/RazoConnect-Architecture) to dive deeper into the system design, infrastructure decisions, and technical documentation behind this project.
 
+## Currently learning
+ **Google Cloud Infrastructure and Certifications** as:
+> **Professional Cloud Developer** | Professional Data Engineer | Professional Cloud Architect
+
 ---
+
 ## Contact
 
 - WebSite: [Portfolio](https://dferram.github.io/Personal-Portfolio/)  

@@ -63,7 +63,7 @@
       </table>
     </td>
     <td valign="middle" width="40%" align="center">
-      <img src="https://streak-stats.demolab.com?user=dferram&theme=dark&hide_border=true&timezone=America/Mexico_City" height="160"/>
+      <img src="https://github-stats.jstrieb.me/api?username=dferram&theme=dark" height="160"/>
     </td>
   </tr>
 </table>
@@ -74,9 +74,9 @@
 
 - [RazoConnect](https://razo.com.mx)
 
-An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients, where I served as the sole architect and developer responsible for the entire technical lifecycle. The system integrates complex business logic—including a sophisticated **FIFO inventory allocation algorithm**, real-time stock projections, and automated financial reporting—within a robust **multi-tenant architecture** featuring **strict data isolation**, a multi-layered security pipeline with granular **Role-Based Access Control (RBAC)**, and high-performance hybrid caching utilizing **Redis and RAM** to ensure production-level scalability and data-driven operational excellence.
+An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients, where I served as the sole architect and developer responsible for the entire technical lifecycle. The system integrat[...]
 
-> **Interested in the architecture?** Feel free to explore the [RazoConnect Architecture Repository](https://github.com/dferram/RazoConnect-Architecture) to dive deeper into the system design, infrastructure decisions, and technical documentation behind this project.
+> **Interested in the architecture?** Feel free to explore the [RazoConnect Architecture Repository](https://github.com/dferram/RazoConnect-Architecture) to dive deeper into the system design, infrast[...]
 
 ## Currently learning
  **Google Cloud Infrastructure and Certifications** as:

@@ -64,7 +64,7 @@
     </td>
     <td valign="middle" width="40%" align="center">
       <a href="https://github.com/dferram">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dferram&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=5&amp;v=1" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=dferram&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=7&amp;hide=jupyter%20notebook" alt="Top Languages" />
       </a>
     </td>
   </tr>

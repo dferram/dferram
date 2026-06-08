@@ -82,7 +82,7 @@ An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients
 
 ## Currently learning
  **Google Cloud Infrastructure and Certifications** as:
-> **Professional Cloud Developer** | Professional Data Engineer | Professional Cloud Architect
+> **Professional Cloud Architect** | Professional Data Engineer | Professional Cloud Developer
 
 ---
 

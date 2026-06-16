@@ -1,6 +1,6 @@
 # Fernando Ramírez
-*CEO and Founder of [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/) | Software engineer*
-> **Intern Procurement IT at Colgate-Palmolive**
+_**Software engineer | Data analyst**_
+> **Intern Procurement Data analyst at Colgate-Palmolive**
 
 `Backend & Databases` • `Cloud & DevOps` • `Security` • `Frontend & UX/UI`
 
@@ -88,7 +88,8 @@ An end-to-end **B2B ERP and E-Commerce SaaS** platform built with active clients
 ## Contact
 
 - WebSite: [Portfolio](https://dferram.github.io/Personal-Portfolio/)  
-- LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)  
+- LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)
+- Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsites.net/)
 - Email: dferramm@gmail.com
 
 ---

@@ -91,11 +91,13 @@ _**Software engineer | Data analyst**_
       Production-ready <b>B2B ERP & E-Commerce SaaS</b> with active clients, built solo as architect and developer. Features multi-tenant architecture with strict data isolation, enterprise-grade security built from scratch, a credit risk scoring system, blind inventory management with immutable Kardex tracking, and much more.
       <br><br>
       <blockquote>Full system design in the <a href="https://github.com/dferram/RazoConnect-Architecture">Architecture Repository</a>.</blockquote>
-      <br>
     </td>
     <td width="50%" valign="top">
       <b>Colgate-Palmolive — Procurement PMO</b><br><br>
       Internal platform for the Colgate-Palmolive Procurement team to manage FTG project portfolios. Features Gantt visualization, phase and task tracking, executive PDF reporting, and Google Chat notifications — built on Google Apps Script + Vue 3, handling multi-million dollar investment oversight.
+      <br><br>
+     <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
+      <br>
     </td>
   </tr>
   <tr>

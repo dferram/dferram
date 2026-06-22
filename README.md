@@ -2,8 +2,6 @@
 _**Software engineer | Data analyst**_
 > **Intern Procurement Data analyst at Colgate-Palmolive**
 
-`Backend & Databases` • `Cloud & DevOps` • `Frontend & UX/UI`
-
 ---
 
 ## Technical Skills & Activity
@@ -102,7 +100,7 @@ _**Software engineer | Data analyst**_
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://fuzzy-logic-zeta.vercel.app/">FuzzyMed</a> — Respiratory Disease Diagnostic System</b><br><br>
+      <b><a href="https://fuzzy-logic-zeta.vercel.app/">FuzzyMed</a></b><br><br>
       Orientative medical tool that applies fuzzy set intersection to match patient symptoms against a 10×15 clinical matrix of respiratory diseases, returning a ranked diagnosis with match percentages. Stack: React + TypeScript, FastAPI, MongoDB, deployed on Azure App Service.
     </td>
     <td width="50%" valign="top">
@@ -114,15 +112,16 @@ _**Software engineer | Data analyst**_
 
 ## Leadership & Community
 
-- **Git & GitHub Workshop** — Instructor for university students at UAQ on SAC´s 2026 workshop, teaching version control fundamentals and collaborative workflows from scratch.
-> Course materials and the workshop landing page available in [git-github-workshop](https://github.com/dferram/git-github-workshop).
+- **Git and GitHub Workshop** — Instructor for the Computer Science Faculty workshop at SAC 2026, where I taught the fundamentals of version control and collaborative workflows from scratch.
+> The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/git-github-workshop).
 
 ---
 
 ## Currently learning
 
 **Google Cloud Infrastructure and Certifications** as:
-> **Professional Cloud Architect** | Professional Data Engineer | Professional Cloud Developer
+<br>
+ `Professional Cloud Architect` • `Professional Data Engineer`
 
 ---
 

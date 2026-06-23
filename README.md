@@ -60,13 +60,6 @@ _**Software engineer | Data analyst**_
               <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
             </td>
           </tr>
-          <tr>
-            <td><b>AI</b></td>
-            <td>
-              <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-            </td>
-          </tr>
         </tbody>
       </table>
     </td>
@@ -109,7 +102,7 @@ _**Software engineer | Data analyst**_
 ## Leadership & Community
 
 - **Git and GitHub Workshop** — Instructor for the Computer Science Faculty workshop at SAC 2026, where I taught the fundamentals of version control and collaborative workflows from scratch.
-> The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/git-github-workshop).
+> The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/github-course-teamwork).
 
 ## Currently learning
 

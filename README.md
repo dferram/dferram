@@ -81,10 +81,10 @@ _**Software engineer | Data analyst**_
       <blockquote>Full system design in the <a href="https://github.com/dferram/RazoConnect-Architecture">Architecture Repository</a>.</blockquote>
     </td>
     <td width="50%" valign="top">
-      <b>Colgate-Palmolive — Procurement PMO</b><br><br>
-      Internal platform for the Colgate-Palmolive Procurement team to manage FTG project portfolios. Features Gantt visualization, phase and task tracking, executive PDF reporting, and Google Chat notifications — built on Google Apps Script + Vue 3, handling multi-million dollar investment oversight.
-     <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
-    </td>
+  <b><a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive — Procurement PMO</a></b><br><br>
+  Internal platform for the Colgate-Palmolive Procurement team to manage FTG project portfolios. Features Gantt visualization, phase and task tracking, executive PDF reporting, and Google Chat notifications — built on Google Apps Script + Vue 3, handling multi-million dollar investment oversight.
+  <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">

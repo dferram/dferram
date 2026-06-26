@@ -77,22 +77,21 @@ _**Software engineer | Data analyst**_
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://razo.com.mx">RazoConnect</a></b><br><br>
-      Production-ready <b>B2B ERP & E-Commerce SaaS</b> with active clients, built solo as architect and developer. Features multi-tenant architecture with strict data isolation, enterprise-grade security built from scratch, a credit risk scoring system, blind inventory management with immutable Kardex tracking, and much more.
+      B2B ERP & E-Commerce SaaS built solo from scratch with active clients. Handles multi-tenant data isolation, a credit risk scoring engine, and blind inventory management through an immutable Kardex — production-ready and live.
       <blockquote>Full system design in the <a href="https://github.com/dferram/RazoConnect-Architecture">Architecture Repository</a>.</blockquote>
     </td>
     <td width="50%" valign="top">
-  <b><a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive — Procurement PMO</a></b><br><br>
-  Internal platform for the Colgate-Palmolive Procurement team to manage FTG project portfolios. Features Gantt visualization, phase and task tracking, executive PDF reporting, and Google Chat notifications — built on Google Apps Script + Vue 3, handling multi-million dollar investment oversight.
-  <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
-</td>
+      <b><a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive — Procurement PMO</a></b><br><br>
+      Internal platform built for the Colgate-Palmolive Procurement team to manage multi-million dollar FTG project portfolios — with Gantt timelines, phase tracking, executive PDF exports, and real-time Google Chat alerts.
+      <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://fuzzy-logic-zeta.vercel.app/">FuzzyMed</a></b><br><br>
-      Orientative medical tool that applies fuzzy set intersection to match patient symptoms against a 10×15 clinical matrix of respiratory diseases, returning a ranked diagnosis with match percentages. Stack: React + TypeScript, FastAPI, MongoDB, deployed on Azure App Service.
+      Orientative diagnostic tool that maps patient symptoms against a 10×15 clinical matrix of respiratory diseases using fuzzy set intersection — returning a ranked list of probable conditions with match percentages.
     </td>
-    <td width="50%" valign="top">
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 

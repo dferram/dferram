@@ -104,19 +104,14 @@ _**Software engineer | Data analyst**_
 - **Git and GitHub Workshop** — Instructor for the _**Computer Science Faculty workshop at SAC 2026**_, where I taught the fundamentals of version control and collaborative workflows from scratch.
 > The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/github-course-teamwork).
 
-## Currently learning
+### Currently learning
 
-**Google Cloud Infrastructure and Certifications** as:
-<br>
-`Professional Data Engineer` • `Professional Cloud Architect`
-
-**AWS Cloud Infrastructure and Certifications** as:
-<br>
-`Professional Cloud Developer`
-
-**Microsoft Certifications** as:
-<br>
-`Develop Solutions for Microsoft Azure` • `Github foundations` • `Data integration at scale (Azure Data Factory/Azure Synapse Pipeline)` 
+| Cloud Provider | Target Certifications |
+| :---: | :--- |
+| <img src="https://cdn.creazilla.com/icons/3253833/google-cloud-icon-size_512.png" width="25" align="absmiddle"/> | `Professional Data Engineer` • `Professional Cloud Architect` |
+| <img src="https://fusionnetworking.com/wp-content/uploads/2025/09/Amazon-Web-Services-Logo-White.png" width="25" align="absmiddle"/> | `Professional Cloud Developer` |
+| <img src="https://images.seeklogo.com/logo-png/42/2/microsoft-azure-logo-png_seeklogo-426746.png" width="25" align="absmiddle"/> | `Develop Solutions for Azure` • `Azure Data Factory / Synapse` |
+| <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="25" align="absmiddle"/> | `Github Foundations` |
 
 ---
 
@@ -125,5 +120,4 @@ _**Software engineer | Data analyst**_
 - Website: [Portfolio](https://dferram.github.io/Personal-Portfolio/)
 - LinkedIn: [Fernando Ramírez](https://www.linkedin.com/in/ferram-garcia)
 - Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsices.net/)
-- Email: dferramm@gmail.com
 - Other platforms: [Google developer program](https://me.developers.google.com/u/me) - [Microsoft Learn](https://learn.microsoft.com/en-us/users/fernandoramrez-7070/)

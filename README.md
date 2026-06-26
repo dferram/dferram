@@ -101,20 +101,29 @@ _**Software engineer | Data analyst**_
 
 ## Leadership & Community
 
-- **Git and GitHub Workshop** — Instructor for the Computer Science Faculty workshop at SAC 2026, where I taught the fundamentals of version control and collaborative workflows from scratch.
+- **Git and GitHub Workshop** — Instructor for the _**Computer Science Faculty workshop at SAC 2026**_, where I taught the fundamentals of version control and collaborative workflows from scratch.
 > The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/github-course-teamwork).
 
 ## Currently learning
 
 **Google Cloud Infrastructure and Certifications** as:
 <br>
- `Professional Cloud Architect` • `Professional Data Engineer`
+`Professional Data Engineer` • `Professional Cloud Architect`
+
+**AWS Cloud Infrastructure and Certifications** as:
+<br>
+`Professional Cloud Developer`
+
+**Microsoft Certifications** as:
+<br>
+`Develop Solutions for Microsoft Azure` • `Github foundations` • `Data integration at scale (Azure Data Factory/Azure Synapse Pipeline)` 
 
 ---
 
 ## Contact
 
 - Website: [Portfolio](https://dferram.github.io/Personal-Portfolio/)
-- LinkedIn: [Ferram García](https://www.linkedin.com/in/ferram-garcia)
+- LinkedIn: [Fernando Ramírez](https://www.linkedin.com/in/ferram-garcia)
 - Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsices.net/)
 - Email: dferramm@gmail.com
+- Other platforms: [Google developer program](https://me.developers.google.com/u/me) - [Microsoft Learn](https://learn.microsoft.com/en-us/users/fernandoramrez-7070/)

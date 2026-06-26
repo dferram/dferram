@@ -86,7 +86,6 @@ _**Software engineer | Data analyst**_
       Internal platform for the Colgate-Palmolive Procurement team to manage FTG project portfolios. Features Gantt visualization, phase and task tracking, executive PDF reporting, and Google Chat notifications — built on Google Apps Script + Vue 3, handling multi-million dollar investment oversight.
       <br><br>
      <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
-      <br>
     </td>
   </tr>
   <tr>

@@ -73,7 +73,7 @@ _**Software engineer | Data analyst**_
     </td>
     <td valign="middle" width="40%" align="center">
       <a href="https://github.com/dferram">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=dferram&layout=compact&theme=transparent&hide_border=true&langs_count=7&hide=jupyter%20notebook" alt="Top Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=dferram&layout=compact&theme=transparent&hide_border=true&langs_count=5&hide=jupyter%20notebook" alt="Top Languages" />
       </a>
     </td>
   </tr>

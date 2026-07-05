@@ -114,5 +114,4 @@ _**Software engineer | Data analyst**_
 
 - Website: [Portfolio](https://dferram.github.io/Personal-Portfolio/)
 - LinkedIn: [Fernando Ramírez](https://www.linkedin.com/in/ferram-garcia)
-- Startup: [xCore](https://xcore-byg8fkdve4eyatbz.mexicocentral-01.azurewebsices.net/)
 - Other platforms: [Google developer program](https://me.developers.google.com/u/me) - [Microsoft Learn](https://learn.microsoft.com/en-us/users/fernandoramrez-7070/)

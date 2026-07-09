@@ -90,16 +90,20 @@ _**Software engineer | Data analyst**_
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive — Procurement PMO</a></b><br><br>
-      Internal platform built for the Colgate-Palmolive Procurement team to manage multi-million dollar FTG project portfolios — with Gantt timelines, phase tracking, executive PDF exports, and real-time Google Chat alerts.
-      <blockquote>Made for the <a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive Interns Organization</a>.</blockquote>
+      An interactive dashboard developed for the Procurement team at Mission Hills to improve project tracking and data visibility. It is intended to start locally and            scale to other Colgate-Palmolive plants on a near future.
+<blockquote><b>First project for my internship at Colgate-Palmolive</b></blockquote>    
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://fuzzy-logic-zeta.vercel.app/">FuzzyMed</a></b><br><br>
-      Orientative diagnostic tool that maps patient symptoms against a 10×15 clinical matrix of respiratory diseases using fuzzy set intersection — returning a ranked list of probable conditions with match percentages.
+      Orientative diagnostic tool that maps patient symptoms against a 10×15 clinical matrix of respiratory diseases using fuzzy set intersection — returning a ranked list        of probable conditions with match percentages.
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <b><a href="https://fuzzy-logic-zeta.vercel.app/">Colgate-Palmolive — Supplier capabilities</a></b><br><br>
+      A supplier capability mapping and analysis initiative created for the Mission Hills Procurement team to support more informed planning and decision-making. The project is designed to track data from suppliers around Latinamerica.
+<blockquote><b>Second project for my intership at Colgate-Palmolive</b></blockquote>
+    </td>
   </tr>
 </table>
 

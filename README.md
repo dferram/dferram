@@ -2,6 +2,8 @@
 _**Software engineer | Data analyst**_
 > **Intern Procurement Data analyst at Colgate-Palmolive**
 
+> **7th Semester Software engineer student at UAQ**
+
 ---
 
 ## Technical Skills & Activity
@@ -109,7 +111,7 @@ _**Software engineer | Data analyst**_
 
 ## Leadership & Community
 
-- **Git and GitHub Workshop** — Instructor for the _**Computer Science Faculty workshop at SAC 2026**_, where I taught the fundamentals of version control and collaborative workflows from scratch.
+- **Git and GitHub Workshop** — Instructor for the _**Computer Science Faculty workshop at SAC 2026**_, where I gave a two-day workshop related to version control using Git and creating an atractive Github profile while learning how to colaborate within the platform.
 > The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/github-course-teamwork).
 
 ---

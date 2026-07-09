@@ -2,7 +2,7 @@
 _**Software engineer | Data analyst**_
 > **Intern Procurement Data analyst at Colgate-Palmolive**
 
-> **7th-semester Software Engineering student at UAQ**
+> **7th-semester Software engineering student at UAQ**
 
 ---
 

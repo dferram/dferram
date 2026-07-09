@@ -40,9 +40,9 @@ _**Software engineer | Data analyst**_
             <td>
               <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
               <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-              <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
               <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logoColor=white"/>
               <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Figma-646CFF?style=flat-square&logo=figma&logoColor=white"/>
             </td>
           </tr>
           <tr>
@@ -53,7 +53,7 @@ _**Software engineer | Data analyst**_
             </td>
           </tr>
           <tr>
-            <td><b>Cloud & DevOps</b></td>
+            <td><b>Cloud</b></td>
             <td>
               <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white"/>
               <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=FF9900"/>

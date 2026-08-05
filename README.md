@@ -4,6 +4,8 @@ _**Software engineer | Data analyst**_
 
 > **7th-semester Software engineering student at UAQ**
 
+> <a href="https://github.com/dferram/DevPal"><img src="https://img.shields.io/badge/Intellectual_Property-Registered-005C3B?style=flat-square&logo=libreofficewriter&logoColor=white"/></a>
+
 ---
 
 ## Technical Skills & Activity

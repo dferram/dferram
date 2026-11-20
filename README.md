@@ -82,9 +82,11 @@ _**Software engineer | Data analyst**_
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg">
+</picture>
 
 ## Star projects
 

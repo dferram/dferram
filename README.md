@@ -2,9 +2,8 @@
 _**Software engineer | Data analyst**_
 > **Intern Procurement Data analyst at Colgate-Palmolive**
 
-> **7th-semester Software engineering student at UAQ**
+> **Software Engineering student at UAQ**
 
-> <a href="https://github.com/dferram/DevPal"><img src="https://img.shields.io/badge/Intellectual_Property-Registered-005C3B?style=flat-square&logo=libreofficewriter&logoColor=white"/></a>
 
 ---
 
@@ -36,6 +35,7 @@ _**Software engineer | Data analyst**_
               <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
               <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
               <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+              <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logoColor=white"/>
             </td>
           </tr>
           <tr>
@@ -82,6 +82,18 @@ _**Software engineer | Data analyst**_
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/dferram">
+    <img src="https://github-readme-stats.shion.dev/api?username=dferram&show_icons=true&theme=transparent&hide_border=true" alt="Fernando's GitHub stats" />
+  </a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dferram/dferram/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dferram/dferram/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dferram/dferram/output/github-snake.svg">
+</picture>
+
 ## Star projects
 
 <table width="100%">
@@ -100,18 +112,18 @@ _**Software engineer | Data analyst**_
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive — Procurement PMO</a></b><br><br>
-      An interactive dashboard developed for the Procurement team at Mission Hills to improve project tracking and data visibility. It is intended to start locally and scale to other Colgate-Palmolive plants on a near future.
+      An interactive dashboard developed for the Procurement team at Mission Hills to improve project tracking and data visibility. It is intended to start locally and scale to other Colgate-Palmolive plants in the near future.
       <blockquote><b>First project for my internship at Colgate-Palmolive</b></blockquote>    
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://fuzzy-logic-zeta.vercel.app/">FuzzyMed</a></b><br><br>
-      Orientative diagnostic tool that maps patient symptoms against a 10×15 clinical matrix of respiratory diseases using fuzzy set intersection — returning a ranked list of probable conditions with match percentages.
+      Preliminary diagnostic tool that maps patient symptoms against a 10×15 clinical matrix of respiratory diseases using fuzzy set intersection — returning a ranked list of probable conditions with match percentages.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Colgate-Palmolive-Interns">Colgate-Palmolive — Supplier capabilities</a></b><br><br>
-      A supplier capability mapping and analysis initiative created for the Mission Hills Procurement team to support more informed planning and decision-making. The project is designed to track data from suppliers around Latinamerica.
+      A supplier capability mapping and analysis initiative created for the Mission Hills Procurement team to support more informed planning and decision-making. The project is designed to track data from suppliers around Latin America.
       <blockquote><b>Second project for my internship at Colgate-Palmolive</b></blockquote>
     </td>
   </tr>

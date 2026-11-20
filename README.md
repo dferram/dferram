@@ -85,8 +85,6 @@ _**Software engineer | Data analyst**_
 
 ## Star projects
 
-## Star projects
-
 <table width="100%">
   <tr>
     <td colspan="2" valign="top">
@@ -122,7 +120,7 @@ _**Software engineer | Data analyst**_
 
 ## Leadership & Community
 
-- **Git and GitHub Workshop** — Instructor for the _**Computer Science Faculty workshop at SAC 2026**_, where I gave a two-day workshop related to version control using Git and creating an atractive Github profile while learning how to colaborate within the platform.
+- **Git and GitHub Workshop** — Instructor for the _**Computer Science Faculty workshop at SAC 2026**_, where I gave a two-day workshop related to version control using Git and creating an attractive GitHub profile while learning how to collaborate within the platform.
 > The course materials and workshop website are available at [git-github-workshop](https://github.com/dferram/github-course-teamwork).
 
 ---

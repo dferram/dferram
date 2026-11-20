@@ -83,16 +83,8 @@ _**Software engineer | Data analyst**_
 </table>
 
 <p align="center">
-  <a href="https://github.com/dferram">
-    <img src="https://github-readme-stats.shion.dev/api?username=dferram&show_icons=true&theme=transparent&hide_border=true" alt="Fernando's GitHub stats" />
-  </a>
+  <img src="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dferram/dferram/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dferram/dferram/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dferram/dferram/output/github-snake.svg">
-</picture>
 
 ## Star projects
 

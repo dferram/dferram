@@ -36,7 +36,6 @@ _**Software engineer | Data analyst**_
               <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
               <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
               <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
             </td>
           </tr>
           <tr>
@@ -130,4 +129,3 @@ _**Software engineer | Data analyst**_
 - Website: [Portfolio](https://dferram.github.io/Personal-Portfolio/)
 - LinkedIn: [Fernando Ramírez](https://www.linkedin.com/in/ferram-garcia)
 - Leetcode: [dferramm](https://leetcode.com/u/dferram/)
-- Other platforms: [Google developer program](https://me.developers.google.com/u/me) - [Microsoft Learn](https://learn.microsoft.com/en-us/users/fernandoramrez-7070/)

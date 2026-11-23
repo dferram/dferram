@@ -7,6 +7,12 @@ _**Software engineer | Data analyst**_
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg">
+</picture>
+
 ## Technical Skills & Activity
 
 <table width="100%">
@@ -59,7 +65,7 @@ _**Software engineer | Data analyst**_
             <td><b>Cloud</b></td>
             <td>
               <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logoColor=white"/>
-              <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=FF9900"/>
+              <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=FF9900"/>
               <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
             </td>
@@ -81,12 +87,6 @@ _**Software engineer | Data analyst**_
     </td>
   </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-night-green.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/dferram/dferram/profile-3d-contrib/profile-green-animate.svg">
-</picture>
 
 ## Star projects
 
